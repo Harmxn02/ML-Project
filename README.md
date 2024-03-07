@@ -1,5 +1,13 @@
 # ML Project: Supervised Learning - Drunk Smurfs
 
+## TODO
+
+1. Actually finalize the project :)
+2. **Remember** to also include the `html` versions of the notebooks
+3. Check, double check and triple check for mistakes
+4. Reformat the code
+5. Adjust markdown sections of notebooks to be more clear
+
 ## Content of this repository
 
 In this repository you will find all of the `.ipynb` notebooks and datasets for a project I had for the course Machine Learning.
