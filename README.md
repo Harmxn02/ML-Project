@@ -19,11 +19,13 @@ In this repository you will find all of the `.ipynb` notebooks and datasets for 
 - `/data/cleaned` contains the cleaned (pre-processed) `train_V2.csv`
 - `/data/exported` contains the exported datasets from all 3 models + 1 where all 3 are merged
 
-### Directories
+### Models
 
-1. `/Project_Revenue/` directory contains my model for the first assignment
-2. `/Project_Damage_Incident/` directory contains my model for the second assignment
-3. `/Project_Damage_Amount/` directory contains my model for the third assignment
+`/models/` contains the notebooks for the models
+
+1. `/models/Project_Revenue/` directory contains my model for the first assignment
+2. `/models/Project_Damage_Incident/` directory contains my model for the second assignment
+3. `/models/Project_Damage_Amount/` directory contains my model for the third assignment
 
 ## Assignment context
 
