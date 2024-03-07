@@ -1,0 +1,55 @@
+outcome_profit;profit of last visit
+outcome_damage_inc;damage incident in last visit
+outcome_damage_amount;damage amount after last visit
+crd_lim_rec;Recommended limit hotel credit 
+credit_use_ic;previously used hotel credit
+gluten_ic;allergic to gluten
+lactose_ic;lactose intolerant
+insurance_ic;use of hotel insurance
+spa_ic;spa user
+empl_ic;employee of chain
+cab_requests;number of cab requests
+married_cd;marital status
+spa_ic;spa user
+bar_no;number of hotel bar visits
+sport_ic;user of sports facilities
+neighbor_income;Mean taxable income of neighborhood
+age;age
+marketing_permit;marketing contact allowed
+urban_ic;from urban region (vs rural)
+region;adress region
+dining_ic;use of in-hotel restaurants
+presidential;previous use of presidential suite
+client_segment;segment of client
+sect_empl;employment sector
+prev_stay;previous stay at hotel indicator
+prev_all_in_stay;previous stay at hotel with all-in formula indicator
+divorce;indicator divorce
+fam_adult_size;number of adults in family
+children_no;number of known children
+tenure_yrs;months as client in months
+tenure_yrs;years as client in years
+company_ic;indicator company card
+claims_no;number of claims against hotel
+claims_am;compensations payed after claims
+damage_am;total amount of damages  (excluding last visit)
+damage_inc;number of damage incidents  (excluding last visit)
+nights_booked;total nights booked at chain
+gender;gender code
+shop_am;amount spent in shop
+shop_use;used hotel shop court
+retired;retired indicator
+profit_am;total profit across visits (excluding last visit)
+profit_last_am;profit across second last visit
+gold_status;gold client profile
+profit_am;total profit across visits  (excluding last visit)
+score1_pos;positivity' score, given by staff, as quantile, from hotel 1
+score2_pos;positivity' score, given by staff, as quantile, from hotel 2
+score3_pos;positivity' score, given by staff, as quantile, from hotel 3
+score4_pos;positivity' score, given by staff, as quantile, from hotel 4
+score5_pos;positivity' score, given by staff, as quantile, from hotel 5
+score1_neg;negativity' score, given by staff, as quantile, from hotel 1
+score2_neg;negativity' score, given by staff, as quantile, from hotel 2
+score3_neg;negativity' score, given by staff, as quantile, from hotel 3
+score4_neg;negativity' score, given by staff, as quantile, from hotel 4
+score5_neg;negativity' score, given by staff, as quantile, from hotel 5
