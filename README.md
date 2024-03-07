@@ -43,3 +43,11 @@ It is your job as a data scientist to screen applying Smurfs clients for an excl
 &nbsp;
 
 > Harman Singh
+
+### Time spent on this project
+
+| Day           | Time spent    | Start time | End time |
+| --------      | -------       | -------    | -------  |
+| Thu, 7 March  | 12h38         | 10h00      | 22h38    |
+
+### **TOTAL**: 12h38
