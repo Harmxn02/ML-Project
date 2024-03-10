@@ -2,17 +2,25 @@
 
 ## TODO
 
-1. Actually finalize the project :)
-2. **Remember** to also include the `html` versions of the notebooks
-3. Check, double check and triple check for mistakes
-4. Reformat the code
-5. Adjust markdown sections of notebooks to be more clear
+1. **It's 200 applicants, not 150**
+2. Actually finalize the project :)
+3. **Remember** to also include the `html` versions of the notebooks
+4. Check, double check and triple check for mistakes
+5. Reformat the code
+6. Adjust markdown sections of notebooks to be more clear
+7. Export list of users with the other metrics (explained in `.docx`)
 
 ## Content of this repository
 
 In this repository you will find all of the `.ipynb` notebooks and datasets for a project I had for the course Machine Learning.
 
 ## Folder structure
+
+### Guestlist
+
+`/guestlist/` contains the lists of approved applicants
+
+- There is a `README.md` in that folder, which you might want to read for clarification
 
 ### Files
 
