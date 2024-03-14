@@ -63,6 +63,6 @@ It is your job as a data scientist to screen applying Smurfs clients for an excl
 | Sun, 10 March | 0h50          | 15h35      | 16h25    |
 | Thu, 14 March | 2h32          | 13h30      | 16h02    |
 | Thu, 14 March | 0h50          | 17h35      | 18h25    |
-| Thu, 14 March | 1h00          | 18h50      | 19h50    |
+| Thu, 14 March | 1h25          | 18h50      | 20h15    |
 
-### **TOTAL**: 17h50
+### **TOTAL**: 18h15
