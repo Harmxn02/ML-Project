@@ -9,7 +9,7 @@
 
 ## Content of this repository
 
-In this repository you will find all of the `.ipynb` notebooks and datasets for a project I had for the course Machine Learning.
+In this repository you will find all of the `.ipynb` notebooks and datasets for a project I had for the course **Machine Learning**.
 
 ## Folder structure
 
@@ -40,6 +40,12 @@ In this repository you will find all of the `.ipynb` notebooks and datasets for 
 2. `/models/Project_Damage_Incident/` directory contains my model for the second assignment
 3. `/models/Project_Damage_Amount/` directory contains my model for the third assignment
 
+### Util
+
+`/util/` contains utility modules
+
+- `calculate_scores.py`, which is a module used to calculate the scores on `scores.csv`
+
 ## Assignment context
 
 Among all international hotel guests, Smurfs are burdened with the upkeep of a singular reputation: they are (supposedly) the rowdiest bunch one can entertain, and are equally well-known for unbridled spending as for racking up extensive costs in damages to hotel infrastructure, staff, and occasionally also other guests – costs which typically cannot be recovered once the guest has sought out the safety of his (or her) homeland.
@@ -52,9 +58,11 @@ It is your job as a data scientist to screen applying Smurfs clients for an excl
 ### Time spent on this project
 
 | Day           | Time spent    | Start time | End time |
-| --------      | -------       | -------    | -------  |
+| ------------- | ------------- | ---------- | -------- |
 | Thu, 7 March  | 12h38         | 10h00      | 22h38    |
 | Sun, 10 March | 0h50          | 15h35      | 16h25    |
 | Thu, 14 March | 2h32          | 13h30      | 16h02    |
+| Thu, 14 March | 0h50          | 17h35      | 18h25    |
+| Thu, 14 March | 1h00          | 18h50      | 19h50    |
 
-### **TOTAL**: 16h00
+### **TOTAL**: 17h50
