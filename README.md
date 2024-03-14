@@ -2,13 +2,10 @@
 
 ## TODO
 
-1. **It's 200 applicants, not 150**
-2. Actually finalize the project :)
-3. **Remember** to also include the `html` versions of the notebooks
-4. Check, double check and triple check for mistakes
-5. Reformat the code
-6. Adjust markdown sections of notebooks to be more clear
-7. Export list of users with the other metrics (explained in `.docx`)
+1. Actually finalize the project :)
+2. Check, double check and triple check for mistakes
+3. Reformat the code
+4. Adjust markdown sections of notebooks to be more clear
 
 ## Content of this repository
 
@@ -58,5 +55,6 @@ It is your job as a data scientist to screen applying Smurfs clients for an excl
 | --------      | -------       | -------    | -------  |
 | Thu, 7 March  | 12h38         | 10h00      | 22h38    |
 | Sun, 10 March | 0h50          | 15h35      | 16h25    |
+| Thu, 14 March | 2h32          | 13h30      | 16h02    |
 
-### **TOTAL**: 13h28
+### **TOTAL**: 16h00
