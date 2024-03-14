@@ -26,6 +26,6 @@ It is **NOT** the applicant on row 100 of `score.csv` that was accepted, however
 
 There are **TWO** `.csv` files:
 
-- `/guestlist/result.csv` contains which `applicant_id`s got accepted
+- `/guestlist/guestlist.csv` contains which `applicant_id`s got accepted
 
-- `/guestlist/result_with_matching_row_number.csv` contains which applicants got accepted based on the row number in `score.csv`
+- `/guestlist/guestlist_with_matching_row_number.csv` contains which applicants got accepted based on the row number in `score.csv`
