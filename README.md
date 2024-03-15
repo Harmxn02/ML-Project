@@ -6,6 +6,7 @@
 2. Check, double check and triple check for mistakes
 3. Reformat the code
 4. Adjust markdown sections of notebooks to be more clear
+5. Whitening the black box (explaining why models do certain things)
 
 ## Content of this repository
 
