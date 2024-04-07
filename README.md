@@ -33,6 +33,14 @@ In this repository you will find all of the `.ipynb` notebooks and datasets for 
 - `/data/cleaned` contains the cleaned (pre-processed) `train_V2.csv`
 - `/data/exported` contains the exported datasets from all 3 models + 1 where all 3 are merged
 
+### Model Selection
+
+`/model_selection/` contains the notebooks for the model comparisons
+
+1. `/model_selection/outcome_profit.ipynb` contains the model selection for the first model
+2. `/model_selection/outcome_damage_inc.ipynb` contains the model selection for the second model
+3. `/model_selection/outcome_damage_amount.ipynb` contains the model selection for the third model
+
 ### Models
 
 `/models/` contains the notebooks for the models
