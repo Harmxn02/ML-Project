@@ -1,5 +1,10 @@
 # ML Project: Supervised Learning - Drunk Smurfs
 
+## Assignment context
+
+Among all international hotel guests, Smurfs are burdened with the upkeep of a singular reputation: they are (supposedly) the rowdiest bunch one can entertain, and are equally well-known for unbridled spending as for racking up extensive costs in damages to hotel infrastructure, staff, and occasionally also other guests – costs which typically cannot be recovered once the guest has sought out the safety of his (or her) homeland.
+It is your job as a data scientist to screen applying Smurfs clients for an exclusive hotel in the Bahamas - yes, it's the kind of hotel you need to apply for!
+
 ## TODO
 
 1. Whitening the black box (explaining why models do certain things)
@@ -50,11 +55,6 @@ In this repository you will find all of the `.ipynb` notebooks and datasets for 
 `/util/` contains utility modules
 
 - `calculate_scores.py`, which is a module used to calculate the scores on `scores.csv`
-
-## Assignment context
-
-Among all international hotel guests, Smurfs are burdened with the upkeep of a singular reputation: they are (supposedly) the rowdiest bunch one can entertain, and are equally well-known for unbridled spending as for racking up extensive costs in damages to hotel infrastructure, staff, and occasionally also other guests – costs which typically cannot be recovered once the guest has sought out the safety of his (or her) homeland.
-It is your job as a data scientist to screen applying Smurfs clients for an exclusive hotel in the Bahamas - yes, it's the kind of hotel you need to apply for!
 
 &nbsp;
 
