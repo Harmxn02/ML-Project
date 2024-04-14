@@ -25,22 +25,22 @@ In this repository you will find all of the `.ipynb` notebooks and datasets for 
 
 1. `Prepare.ipynb` contains the code for Pre-processing the dataset
 2. `Merging.ipynb` contains the code for merging all 3 exported datasets together
-3. `Answer.ipynb` contains the code where the final list of guests is returned
+3. `Answer.ipynb` contains the code where the final list of guests is returned and exported
 
 ### Datasets
 
 `/data/` contains all datasets
 
-- `/data/cleaned` contains the cleaned (pre-processed) `train_V2.csv`
-- `/data/exported` contains the exported datasets from all 3 models + 1 where all 3 are merged
+- `~/cleaned` contains the cleaned (pre-processed) `train_V2.csv`
+- `~/exported` contains the exported datasets from all 3 models + 1 where all 3 are merged
 
 ### Model Selection
 
 `/model_selection/` contains the notebooks for the model comparisons
 
-1. `/model_selection/outcome_profit.ipynb` contains the model selection for the first model
-2. `/model_selection/outcome_damage_inc.ipynb` contains the model selection for the second model
-3. `/model_selection/outcome_damage_amount.ipynb` contains the model selection for the third model
+1. `~/outcome_profit.ipynb` contains the model selection for the first model
+2. `~/outcome_damage_inc.ipynb` contains the model selection for the second model
+3. `~/outcome_damage_amount.ipynb` contains the model selection for the third model
 
 ### Models
 
