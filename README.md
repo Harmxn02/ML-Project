@@ -2,11 +2,7 @@
 
 ## TODO
 
-1. Actually finalize the project :)
-2. Check, double check and triple check for mistakes
-3. Reformat the code
-4. Adjust markdown sections of notebooks to be more clear
-5. Whitening the black box (explaining why models do certain things)
+1. Whitening the black box (explaining why models do certain things)
 
 ## Content of this repository
 
@@ -75,6 +71,6 @@ It is your job as a data scientist to screen applying Smurfs clients for an excl
 | Thu, 14 March | 1h25       | 18h50      | 20h15    |
 | Sun, 7 April  | 3h00       | 17h45      | 20h45    |
 | Sun, 7 April  | 0h15       | 21h25      | 21h40    |
-| Sun, 14 April | XhXX       | 17h30      | 18h05    |
+| Sun, 14 April | 0h35       | 17h30      | 18h05    |
 
 ### **TOTAL**: 22h05
