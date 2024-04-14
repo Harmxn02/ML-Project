@@ -5,10 +5,6 @@
 Among all international hotel guests, Smurfs are burdened with the upkeep of a singular reputation: they are (supposedly) the rowdiest bunch one can entertain, and are equally well-known for unbridled spending as for racking up extensive costs in damages to hotel infrastructure, staff, and occasionally also other guests – costs which typically cannot be recovered once the guest has sought out the safety of his (or her) homeland.
 It is your job as a data scientist to screen applying Smurfs clients for an exclusive hotel in the Bahamas - yes, it's the kind of hotel you need to apply for!
 
-## TODO
-
-1. Whitening the black box (explaining why models do certain things)
-
 ## Content of this repository
 
 In this repository you will find all of the `.ipynb` notebooks and datasets for a project I had for the course **Machine Learning**.
@@ -34,7 +30,7 @@ In this repository you will find all of the `.ipynb` notebooks and datasets for 
 - `~/cleaned` contains the cleaned (pre-processed) `train_V2.csv`
 - `~/exported` contains the exported datasets from all 3 models + 1 where all 3 are merged
 
-### Model Selection
+### Model selection
 
 `/model_selection/` contains the notebooks for the model comparisons
 
