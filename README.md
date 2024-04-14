@@ -41,9 +41,9 @@ In this repository you will find all of the `.ipynb` notebooks and datasets for 
 
 `/models/` contains the notebooks for the models
 
-1. `/models/Project_Revenue/` directory contains my model for the first assignment
-2. `/models/Project_Damage_Incident/` directory contains my model for the second assignment
-3. `/models/Project_Damage_Amount/` directory contains my model for the third assignment
+1. `~/Predict_Revenue/` directory contains my model for the first assignment
+2. `~/Predict_Damage_Incident/` directory contains my model for the second assignment
+3. `~/Predict_Damage_Amount/` directory contains my model for the third assignment
 
 ### Util
 
