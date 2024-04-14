@@ -67,6 +67,6 @@ In this repository you will find all of the `.ipynb` notebooks and datasets for 
 | Thu, 14 March | 1h25       | 18h50      | 20h15    |
 | Sun, 7 April  | 3h00       | 17h45      | 20h45    |
 | Sun, 7 April  | 0h15       | 21h25      | 21h40    |
-| Sun, 14 April | 0h45       | 17h30      | 18h15    |
+| Sun, 14 April | 0h50       | 17h30      | 18h20    |
 
-### **TOTAL**: 22h15
+### **TOTAL**: 22h20
