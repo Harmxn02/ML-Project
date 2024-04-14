@@ -66,14 +66,15 @@ It is your job as a data scientist to screen applying Smurfs clients for an excl
 
 ### Time spent on this project
 
-| Day           | Time spent    | Start time | End time |
-| ------------- | ------------- | ---------- | -------- |
-| Thu, 7 March  | 12h38         | 10h00      | 22h38    |
-| Sun, 10 March | 0h50          | 15h35      | 16h25    |
-| Thu, 14 March | 2h32          | 13h30      | 16h02    |
-| Thu, 14 March | 0h50          | 17h35      | 18h25    |
-| Thu, 14 March | 1h25          | 18h50      | 20h15    |
-| Sun, 7 April  | 3h00          | 17h45      | 20h45    |
-| Sun, 7 April  | 0h15          | 21h25      | 21h40    |
+| Day           | Time spent | Start time | End time |
+| ------------- | ---------- | ---------- | -------- |
+| Thu, 7 March  | 12h38      | 10h00      | 22h38    |
+| Sun, 10 March | 0h50       | 15h35      | 16h25    |
+| Thu, 14 March | 2h32       | 13h30      | 16h02    |
+| Thu, 14 March | 0h50       | 17h35      | 18h25    |
+| Thu, 14 March | 1h25       | 18h50      | 20h15    |
+| Sun, 7 April  | 3h00       | 17h45      | 20h45    |
+| Sun, 7 April  | 0h15       | 21h25      | 21h40    |
+| Sun, 14 April | XhXX       | 17h30      | 18h05    |
 
-### **TOTAL**: 21h30
+### **TOTAL**: 22h05
